@@ -1,1 +1,2 @@
-# proyecto_integrador_sql_charlie![modelo_entidad_relación  FINAL 15-07-2022](https://user-images.githubusercontent.com/105325805/179333786-f9bd14ee-f11f-4bed-9bea-9e954c681553.jpeg)
+# proyecto_integrador_sql_charlie!![modelo_entidad_relación](https://user-images.githubusercontent.com/105325805/179334334-c1540084-f96e-4ea2-ab46-e37a113d8564.jpeg)
+[README.md](https://github.com/milenasandra/proyecto_integrador_sql_charlie/files/9124959/README.md)
